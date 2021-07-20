@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="374"
+   height="96"
+   viewBox="0 0 98.954164 25.400001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.99528652"
+     inkscape:cx="112.02804"
+     inkscape:cy="261.23131"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="374px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#808080;fill-rule:evenodd;stroke-width:113.386;stroke-linecap:round"
+       id="path846"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="73.887375"
+       sodipodi:cy="136.40746"
+       sodipodi:r1="89.427132"
+       sodipodi:r2="72.348068"
+       sodipodi:arg1="0.79663365"
+       sodipodi:arg2="1.8438312"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 136.40746,200.34845 -12.747194,158.58094 98.001859,50.292976 Z"
+       transform="matrix(0.17048204,-0.02344075,0.04834717,0.0826569,-5.531737,-1.9960659)"
+       inkscape:transform-center-x="-1.7092248"
+       inkscape:transform-center-y="-1.5645685" />
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:19.9814;stroke-linecap:round"
+       id="rect950"
+       width="17.669621"
+       height="14.286076"
+       x="4.8506188"
+       y="10.88138" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.3956px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.484892"
+       x="31.001215"
+       y="19.708221"
+       id="text2178"><tspan
+         sodipodi:role="line"
+         id="tspan2176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.484892"
+         x="31.001215"
+         y="19.708221">Profile</tspan></text>
+  </g>
+</svg>
