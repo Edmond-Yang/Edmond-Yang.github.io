@@ -45,8 +45,10 @@ function tagUpgrade(){
 
         }) ;
 
-        for(var i = 0 ; i < len + 1 ; i ++)
-            $('.div_tag').append('<div class = "tag"> <h1>&nbsp;&nbsp;' + Tag[i] + "&nbsp;&nbsp;</h1> <p>" + Name[i] + "&nbsp;&nbsp;</p> </div>") ;
+        for(var i = 0 ; i < len + 1 ; i ++){
+            $('.div_tag').append('<div class = "tag tag_' + len + '"> <h1>' + Tag[i] + "</h1> <p>" + Name[i] + "</p> </div>") ;
+            $('.div_tag').append('<style> .tag_' + len + '{background size: ' + Math.max(Tag[i].length, Name[i].length )*15 + '} </style>')
+        }
 
     }) ;
 
