@@ -4,7 +4,7 @@ var Tag , Name , len = 0 ;
 function showTime(){
     var time = new Date() ;
     var year = time.getFullYear() ,
-        month = time.getMonth() ,
+        month = time.getMonth() + 1 ,
         date = time.getDate() ,
         hour = time.getHours() ,
         minute = time.getMinutes() ,
